@@ -1,0 +1,5 @@
+project_id  = "calm-analogy-400619"
+location    = "US"
+region      = "us-central1"
+zone        = "us-central1-a"
+bucket_name = "deb-gcp-bucket-pius"

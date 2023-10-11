@@ -1,0 +1,6 @@
+postgres:
+  port: "8080"
+project:
+  name: deb-astro-airflow
+webserver:
+  port: "5432"
